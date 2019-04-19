@@ -7,6 +7,7 @@
 * [Viandes](viandes/README.md)
   * [Filet mignon à la sauce au kiwi avec caviar d'aubergine et poivrons grillés](viandes/filet-mignon-a-la-sauce-au-kiwi-avec-caviar-daubergine-et-poivrons-grilles.md)
 * [Poissons](poissons/README.md)
+  * [Crevette aux patates douces](poissons/crevette-aux-patates-douces.md)
   * [Choux farcis au poisson, sauce aux navets et au boulgour / quinoa](poissons/choux-farcis-au-poisson-sauce-aux-navets-et-au-boulgour-quinoa.md)
 * [Desserts](desserts/README.md)
   * [Flan sans oeuf à la farine de chataîgne](desserts/flan-sans-oeuf-a-la-farine-de-chataigne.md)
